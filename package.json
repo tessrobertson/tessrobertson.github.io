@@ -1,6 +1,6 @@
 {
   "name": "tessrobertson.github.io",
-  "homepage": "http://tessrobertson.github.io/"
+  "homepage": "http://tessrobertson.github.io/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
